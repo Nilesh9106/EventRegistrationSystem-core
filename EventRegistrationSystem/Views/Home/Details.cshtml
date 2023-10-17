@@ -94,7 +94,7 @@
 </div>
 
 <div class="rounded-2 bg-light p-4 my-4">
-    @if (ViewData["responses"] == null)
+    @if (Convert.ToBoolean(ViewData["responses"]))
     {
         @if (Convert.ToBoolean(ViewData["submit"]))
     {

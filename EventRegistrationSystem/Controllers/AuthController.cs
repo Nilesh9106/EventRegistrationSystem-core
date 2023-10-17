@@ -60,8 +60,6 @@ namespace EventRegistrationSystem.Controllers
         [HttpPost]
         public IActionResult Signup(User user)
         {
-            if(ModelState.IsValid)
-            {
                 if(repository.GetUserByUsername(user.UserName) != null )
                 {
                     ViewBag.msg = "Username Already exists";
@@ -76,7 +74,7 @@ namespace EventRegistrationSystem.Controllers
                 }
                 repository.Add(user);
                 return RedirectToAction("Login");
-            }
+           
 
             return View();
         }
