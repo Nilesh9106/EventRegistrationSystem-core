@@ -5,7 +5,7 @@ The Event Registration System is a web application built with .NET Core that all
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
-- .NET Core SDK (version x.x or higher)
+- .NET Core SDK (version 6.0 or higher)
 - Visual Studio Code or Visual Studio (recommended)
 
 ## Installation
@@ -15,17 +15,17 @@ Before you begin, ensure you have met the following requirements:
 git clone https://github.com/Nilesh9106/EventRegistrationSystem-core.git
 ```
 
-2. Open visual stdio code and open .sln file of this project
-3. Run project by clicking run button in visual studio code.
+2. Open Visual Studio code and open `EventRegistrationSystem.sln` file of this project
+3. Run the project by clicking the run button in Visual Studio code.
 4. Access the application in your web browser.
 
 ## Usage
 1. **Authentication** : Login and signup functionality
-2. **Create an Event**: navigate to the "Create Event" page. Fill in the event details, including the title,deadline, max participants, and a description. it will redirect you to event page where you can add formfields as you need.
+2. **Create an Event**: navigate to the "Create Event" page. Fill in the event details, including the title, deadline, maximum number of participants, and a description. it will redirect you to the event page where you can add form fields as you need.
 
-3. **Register for an Event**: Browse the list of available events and click "Details" on the event you want to attend. it will redirect you to event page where you will see one form fill it and submit it.
+3. **Register for an Event**: Browse the list of available events and click "Details" on the event you want to attend. it will redirect you to the event page where you will see one form fill it and submit it.
 
-4. **Manage Events**: As an event creator, you can edit or delete your events from your event page. also you can see all responses from other users.
+4. **Manage Events**: As an event creator, you can edit or delete your events from your event page. also, you can see all responses from other users.
 
 ## Features
 - Dynamic event creation
@@ -38,6 +38,6 @@ git clone https://github.com/Nilesh9106/EventRegistrationSystem-core.git
 - `Models`: Defines the data models used in the application.
 
 ## Contact Information
-- [twitter](https://twitter.com/thenileshdarji)
+- [Twitter](https://twitter.com/thenileshdarji)
 - [github](https://github.com/Nilesh9106)
 
