@@ -41,3 +41,26 @@ git clone https://github.com/Nilesh9106/EventRegistrationSystem-core.git
 - [Twitter](https://twitter.com/thenileshdarji)
 - [github](https://github.com/Nilesh9106)
 
+## Screenshots
+- All Events Page
+![Screenshot (245)](https://github.com/Nilesh9106/EventRegistrationSystem-core/assets/97864081/0ed87f54-f268-42c9-ae0c-177c240e1cd0)
+
+- Create Event
+![Screenshot (246)](https://github.com/Nilesh9106/EventRegistrationSystem-core/assets/97864081/4b2f14cd-a6e6-477b-96e3-8d6d55cf95ab)
+
+- Add Fields to Form
+![Screenshot (251)](https://github.com/Nilesh9106/EventRegistrationSystem-core/assets/97864081/ceab4c51-887a-4579-a209-3ade10b7bde8)
+
+- Event Page
+![Screenshot (252)](https://github.com/Nilesh9106/EventRegistrationSystem-core/assets/97864081/5fdf42a7-7d04-4aa2-a29e-2baff39e6d1c)
+
+- Event Submissions
+![Screenshot (248)](https://github.com/Nilesh9106/EventRegistrationSystem-core/assets/97864081/a9475e5f-f95f-4451-bd42-7ffc8f594d36)
+
+- Submmission details
+![Screenshot (249)](https://github.com/Nilesh9106/EventRegistrationSystem-core/assets/97864081/96a104b0-57dd-406f-a643-cc32bcced318)
+
+- Edit Event
+![Screenshot (250)](https://github.com/Nilesh9106/EventRegistrationSystem-core/assets/97864081/40a4c1f8-aa37-4b23-9224-ffaf1349f995)
+
+
